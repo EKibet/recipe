@@ -62,3 +62,9 @@ h2{
   color: black;
   text-align: center;
 }
+.slide3{
+  display: block;
+  width: 450px;
+  float: left;
+  overflow-x: hidden;
+}
