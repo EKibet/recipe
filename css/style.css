@@ -41,7 +41,19 @@ h2{
   display: block;
   float: left;
 }
-.meals{
+.meals1{
+  padding: 20px;
+  width: 100%;
+
+}
+.slide p{
+  float: left;
+  display: block;
+}
+.meals2{
+  width: 450;
+  height: auto;
+  float: left;
   padding: 20px;
 }
 .meals h1{
